@@ -1,0 +1,78 @@
+[16:00:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:00:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:00:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:00:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:00:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:00:22] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[16:00:22] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[16:00:22] [Server thread/INFO]: Loading properties
+[16:00:22] [Server thread/INFO]: Default game type: SURVIVAL
+[16:00:22] [Server thread/INFO]: Generating keypair
+[16:00:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:00:24] [Server thread/INFO]: Using default channel type
+[16:00:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:00:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:00:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:00:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:00:29] [Server thread/INFO]: Preparing level "world"
+[16:00:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:00:31] [Server thread/INFO]: Loaded 6 recipes
+[16:00:31] [Server thread/INFO]: Loaded 811 advancements
+[16:00:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:47] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[16:00:47] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[16:00:48] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[16:00:48] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[16:00:49] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[16:00:49] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[16:00:50] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[16:00:50] [Server-Worker-1/INFO]: Preparing spawn area: 87%
+[16:00:51] [Server-Worker-1/INFO]: Preparing spawn area: 91%
+[16:00:52] [Server-Worker-7/INFO]: Preparing spawn area: 94%
+[16:00:52] [Server thread/INFO]: Preparing spawn area: 94%
+[16:00:52] [Server-Worker-2/INFO]: Preparing spawn area: 98%
+[16:00:52] [Server thread/INFO]: Time elapsed: 19775 ms
+[16:00:52] [Server thread/INFO]: Done (23.099s)! For help, type "help"
+[16:00:54] [Server thread/INFO]: Bence[/127.0.0.1:55297] logged in with entity id 99 at (-133.5, 85.0, 116.5)
+[16:00:54] [Server thread/INFO]: Bence joined the game
+[16:00:56] [Server thread/INFO]: DeluxeVegas[/127.0.0.1:55304] logged in with entity id 233 at (-122.5, 77.0, 109.5)
+[16:00:56] [Server thread/INFO]: DeluxeVegas joined the game
+[16:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[16:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[16:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6205ms or 124 ticks behind
+[16:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8547ms or 170 ticks behind
+[16:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[16:07:52] [Server thread/INFO]: Bence has made the advancement [Monster Hunter]
+[16:08:12] [Server thread/INFO]: DeluxeVegas has made the advancement [Monster Hunter]
+[16:08:35] [Server thread/INFO]: DeluxeVegas lost connection: Disconnected
+[16:08:35] [Server thread/INFO]: DeluxeVegas left the game
+[16:08:36] [Server thread/INFO]: Bence lost connection: Disconnected
+[16:08:36] [Server thread/INFO]: Bence left the game
